@@ -1,1 +1,11 @@
-
+$ git add --all
+$ git status
+# On branch main
+# Changes to be committed:
+# (use "git reset HEAD <file>..." to unstage)
+#
+# new file: 1.png
+# new file: 2.png
+# new file: 3.png
+# new file: 4.png
+# modified: file.txt
